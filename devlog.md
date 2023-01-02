@@ -1163,3 +1163,6 @@ Daily progress notes.
 ### Feb 29, 2024 12:48
 - Improved user experience
 
+### Jan 02, 2023 11:58
+- Fixed layout issues
+
