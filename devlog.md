@@ -32,3 +32,6 @@ Daily progress notes.
 ### Jan 08, 2023 10:40
 - Refactored state management
 
+### Jan 10, 2023 17:54
+- Improved user experience
+
