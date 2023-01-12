@@ -38,3 +38,6 @@ Daily progress notes.
 ### Jan 10, 2023 18:27
 - Improved navigation
 
+### Jan 12, 2023 14:35
+- Updated documentation
+
