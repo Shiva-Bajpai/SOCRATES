@@ -1193,3 +1193,6 @@ Daily progress notes.
 ### Jan 14, 2023 20:59
 - Fixed layout issues
 
+### Jan 16, 2023 23:08
+- Improved responsiveness
+
