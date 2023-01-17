@@ -53,3 +53,6 @@ Daily progress notes.
 ### Jan 17, 2023 10:02
 - Optimized performance
 
+### Jan 17, 2023 16:00
+- Added accessibility features
+
