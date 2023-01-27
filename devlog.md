@@ -86,3 +86,6 @@ Daily progress notes.
 ### Jan 24, 2023 20:18
 - Updated dependencies
 
+### Jan 27, 2023 17:31
+- Improved responsiveness
+
