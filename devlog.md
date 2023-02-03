@@ -110,3 +110,6 @@ Daily progress notes.
 ### Feb 02, 2023 14:34
 - Refactored state management
 
+### Feb 03, 2023 18:56
+- Fixed edge case bugs
+
