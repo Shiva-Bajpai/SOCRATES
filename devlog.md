@@ -164,3 +164,6 @@ Daily progress notes.
 ### Feb 19, 2023 13:40
 - Worked on component styling
 
+### Feb 20, 2023 08:56
+- Improved animations
+
