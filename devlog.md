@@ -1283,3 +1283,6 @@ Daily progress notes.
 ### Mar 06, 2023 21:46
 - Added error handling
 
+### Mar 07, 2023 23:47
+- Fixed mobile layout
+
