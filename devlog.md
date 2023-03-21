@@ -233,3 +233,6 @@ Daily progress notes.
 ### Mar 19, 2023 12:05
 - Updated documentation
 
+### Mar 21, 2023 20:14
+- Improved responsiveness
+
