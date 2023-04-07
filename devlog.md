@@ -1313,3 +1313,6 @@ Daily progress notes.
 ### Apr 06, 2023 13:19
 - Cleaned up unused code
 
+### Apr 07, 2023 18:37
+- Improved navigation
+
