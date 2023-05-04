@@ -1364,3 +1364,6 @@ Daily progress notes.
 ### May 04, 2023 12:18
 - Worked on component styling
 
+### May 04, 2023 23:56
+- Cleaned up unused code
+
