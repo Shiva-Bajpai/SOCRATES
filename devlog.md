@@ -1373,3 +1373,6 @@ Daily progress notes.
 ### May 05, 2023 15:58
 - Worked on component styling
 
+### May 07, 2023 16:53
+- Fixed layout issues
+
