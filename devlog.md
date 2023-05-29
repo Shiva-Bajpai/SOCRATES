@@ -1424,3 +1424,6 @@ Daily progress notes.
 ### May 25, 2023 14:15
 - Added accessibility features
 
+### May 29, 2023 09:02
+- Updated documentation
+
