@@ -1430,3 +1430,6 @@ Daily progress notes.
 ### May 29, 2023 15:45
 - Added accessibility features
 
+### May 30, 2023 19:19
+- Fixed layout issues
+
