@@ -437,3 +437,6 @@ Daily progress notes.
 ### Jun 05, 2023 17:30
 - Updated dependencies
 
+### Jun 07, 2023 12:14
+- Improved navigation
+
