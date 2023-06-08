@@ -443,3 +443,6 @@ Daily progress notes.
 ### Jun 07, 2023 19:33
 - Added error handling
 
+### Jun 08, 2023 16:04
+- Added loading states
+
