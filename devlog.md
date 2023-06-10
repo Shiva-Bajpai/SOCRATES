@@ -452,3 +452,6 @@ Daily progress notes.
 ### Jun 09, 2023 17:46
 - Cleaned up unused code
 
+### Jun 10, 2023 13:22
+- Refactored state management
+
