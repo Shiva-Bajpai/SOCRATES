@@ -470,3 +470,6 @@ Daily progress notes.
 ### Jun 13, 2023 13:07
 - Fixed edge case bugs
 
+### Jun 14, 2023 18:36
+- Added loading states
+
