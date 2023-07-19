@@ -566,3 +566,6 @@ Daily progress notes.
 ### Jul 18, 2023 23:26
 - Refactored state management
 
+### Jul 19, 2023 14:14
+- Added accessibility features
+
