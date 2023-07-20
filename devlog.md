@@ -569,3 +569,6 @@ Daily progress notes.
 ### Jul 19, 2023 14:14
 - Added accessibility features
 
+### Jul 20, 2023 10:03
+- Fixed form validation
+
