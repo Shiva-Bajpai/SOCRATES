@@ -593,3 +593,6 @@ Daily progress notes.
 ### Jul 29, 2023 19:39
 - Updated color scheme
 
+### Jul 31, 2023 21:45
+- Improved responsiveness
+
