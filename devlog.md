@@ -1637,3 +1637,6 @@ Daily progress notes.
 ### Aug 15, 2023 09:22
 - Updated documentation
 
+### Aug 15, 2023 16:51
+- Cleaned up unused code
+
