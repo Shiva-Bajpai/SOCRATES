@@ -1700,3 +1700,6 @@ Daily progress notes.
 ### Sep 06, 2023 17:01
 - Improved animations
 
+### Sep 07, 2023 15:35
+- Added accessibility features
+
