@@ -1709,3 +1709,6 @@ Daily progress notes.
 ### Sep 10, 2023 15:42
 - Fixed form validation
 
+### Sep 10, 2023 21:37
+- Fixed edge case bugs
+
