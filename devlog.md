@@ -1703,3 +1703,6 @@ Daily progress notes.
 ### Sep 07, 2023 15:35
 - Added accessibility features
 
+### Sep 10, 2023 10:32
+- Cleaned up unused code
+
