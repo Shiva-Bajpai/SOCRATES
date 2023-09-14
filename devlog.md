@@ -1718,3 +1718,6 @@ Daily progress notes.
 ### Sep 12, 2023 19:01
 - Fixed layout issues
 
+### Sep 14, 2023 08:09
+- Cleaned up unused code
+
