@@ -1730,3 +1730,6 @@ Daily progress notes.
 ### Sep 16, 2023 10:27
 - Fixed form validation
 
+### Sep 16, 2023 13:17
+- Worked on component styling
+
