@@ -1733,3 +1733,6 @@ Daily progress notes.
 ### Sep 16, 2023 13:17
 - Worked on component styling
 
+### Sep 16, 2023 14:38
+- Refactored state management
+
