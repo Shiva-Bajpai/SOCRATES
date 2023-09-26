@@ -1763,3 +1763,6 @@ Daily progress notes.
 ### Sep 25, 2023 13:49
 - Improved navigation
 
+### Sep 26, 2023 15:58
+- Worked on component styling
+
