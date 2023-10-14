@@ -1802,3 +1802,6 @@ Daily progress notes.
 ### Oct 12, 2023 10:55
 - Fixed layout issues
 
+### Oct 14, 2023 18:41
+- Added error handling
+
