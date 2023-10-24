@@ -800,3 +800,6 @@ Daily progress notes.
 ### Oct 23, 2023 22:40
 - Added error handling
 
+### Oct 24, 2023 16:18
+- Added loading states
+
