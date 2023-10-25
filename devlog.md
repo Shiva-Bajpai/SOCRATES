@@ -803,3 +803,6 @@ Daily progress notes.
 ### Oct 24, 2023 16:18
 - Added loading states
 
+### Oct 25, 2023 14:43
+- Improved responsiveness
+
