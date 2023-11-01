@@ -818,3 +818,6 @@ Daily progress notes.
 ### Oct 30, 2023 13:20
 - Updated documentation
 
+### Nov 01, 2023 11:28
+- Added accessibility features
+
