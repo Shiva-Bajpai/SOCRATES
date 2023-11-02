@@ -1871,3 +1871,6 @@ Daily progress notes.
 ### Nov 02, 2023 10:06
 - Added loading states
 
+### Nov 02, 2023 16:09
+- Worked on component styling
+
