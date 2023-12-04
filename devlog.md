@@ -1952,3 +1952,6 @@ Daily progress notes.
 ### Dec 04, 2023 10:29
 - Fixed edge case bugs
 
+### Dec 04, 2023 19:49
+- Added error handling
+
