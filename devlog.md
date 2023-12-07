@@ -920,3 +920,6 @@ Daily progress notes.
 ### Dec 06, 2023 13:52
 - Improved navigation
 
+### Dec 07, 2023 17:32
+- Improved animations
+
