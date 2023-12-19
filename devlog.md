@@ -1979,3 +1979,6 @@ Daily progress notes.
 ### Dec 17, 2023 09:15
 - Updated color scheme
 
+### Dec 19, 2023 22:15
+- Added loading states
+
