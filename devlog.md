@@ -1985,3 +1985,6 @@ Daily progress notes.
 ### Dec 20, 2023 22:34
 - Fixed form validation
 
+### Dec 22, 2023 20:47
+- Worked on component styling
+
