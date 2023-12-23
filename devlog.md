@@ -971,3 +971,6 @@ Daily progress notes.
 ### Dec 23, 2023 11:11
 - Improved responsiveness
 
+### Dec 23, 2023 13:38
+- Fixed form validation
+
