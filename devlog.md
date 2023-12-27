@@ -1994,3 +1994,6 @@ Daily progress notes.
 ### Dec 24, 2023 11:51
 - Added accessibility features
 
+### Dec 27, 2023 08:56
+- Worked on component styling
+
