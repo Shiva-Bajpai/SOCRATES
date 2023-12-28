@@ -1997,3 +1997,6 @@ Daily progress notes.
 ### Dec 27, 2023 08:56
 - Worked on component styling
 
+### Dec 28, 2023 22:15
+- Improved responsiveness
+
