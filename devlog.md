@@ -2012,3 +2012,6 @@ Daily progress notes.
 ### Jan 04, 2024 08:03
 - Fixed form validation
 
+### Jan 04, 2024 14:01
+- Improved responsiveness
+
