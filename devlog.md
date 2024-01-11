@@ -2021,3 +2021,6 @@ Daily progress notes.
 ### Jan 07, 2024 17:19
 - Added accessibility features
 
+### Jan 11, 2024 11:41
+- Improved animations
+
