@@ -1031,3 +1031,6 @@ Daily progress notes.
 ### Jan 10, 2024 16:46
 - Improved navigation
 
+### Jan 12, 2024 22:15
+- Fixed mobile layout
+
