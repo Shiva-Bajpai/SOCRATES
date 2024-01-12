@@ -2024,3 +2024,6 @@ Daily progress notes.
 ### Jan 11, 2024 11:41
 - Improved animations
 
+### Jan 12, 2024 08:35
+- Fixed layout issues
+
