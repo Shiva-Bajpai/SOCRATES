@@ -2033,3 +2033,6 @@ Daily progress notes.
 ### Jan 20, 2024 11:35
 - Updated color scheme
 
+### Jan 20, 2024 18:40
+- Fixed form validation
+
