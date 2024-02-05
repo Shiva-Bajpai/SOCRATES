@@ -1097,3 +1097,6 @@ Daily progress notes.
 ### Feb 05, 2024 10:46
 - Optimized performance
 
+### Feb 05, 2024 11:05
+- Worked on component styling
+
