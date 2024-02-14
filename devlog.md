@@ -2060,3 +2060,6 @@ Daily progress notes.
 ### Feb 12, 2024 14:37
 - Added accessibility features
 
+### Feb 14, 2024 23:30
+- Updated color scheme
+
