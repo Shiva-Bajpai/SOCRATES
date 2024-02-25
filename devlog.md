@@ -2099,3 +2099,6 @@ Daily progress notes.
 ### Feb 24, 2024 20:28
 - Added accessibility features
 
+### Feb 25, 2024 21:53
+- Cleaned up unused code
+
